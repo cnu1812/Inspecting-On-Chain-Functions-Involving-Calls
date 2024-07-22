@@ -12,6 +12,8 @@ To address the issue of new users not staying on the StackUp platform for a long
 
 - **Description:** Split the total reward pool **($x)** into two segments:**$y** for regular users and **$x-y** for new users. A new user is defined as someone with less than **$10** in their wallet **&&** who has not made any withdrawals.
 
+![image](/workspaces/Inspecting-On-Chain-Functions-Involving-Calls/StackUp-July-Coding-Challenge/Screenshot 2024-07-22 130448.png)
+
 - **Benefits:** Ensures new users receive required rewards for the first withdrawl faster, which builds trust and encourages them to stay on the platform.
 
 ### Incentivized Onboarding:
