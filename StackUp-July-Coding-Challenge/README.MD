@@ -1,4 +1,4 @@
-# Idea Title
+ # Idea Title
 
 ### Enhanced Retention Strategy for New Users through Reward Pool Segmentation
 
@@ -12,7 +12,7 @@ To address the issue of new users not staying on the StackUp platform for a long
 
 - **Description:** Split the total reward pool **($x)** into two segments:**$y** for regular users and **$x-y** for new users. A new user is defined as someone with less than **$10** in their wallet **&&** who has not made any withdrawals.
 
-![image](Screenshot 2024-07-22 130448.png)
+      ![image](Screenshot 2024-07-22 130448.png)
 
 - **Benefits:** Ensures new users receive required rewards for the first withdrawal faster, which builds trust and encourages them to stay on the platform.
 
@@ -27,6 +27,9 @@ Now we have the random reward allocation method, so this idea is inspired by tha
 # Early Challenges
 
 1. **Challenge:**  Our [legends](https://www.scamadviser.com/account/profile/1183659) may create multiple accounts, in the greed of earning.
+
 **Mitigation:** We already have the model to detect the user doing suspicious activity.
+
 2. **Challenge:** Implementing the new reward system might require significant changes to the platform's backend.
+
 **Mitigation:** Admin Adjustment
