@@ -12,21 +12,21 @@ To address the issue of new users not staying on the StackUp platform for a long
 
 - **Description:** Split the total reward pool **($x)** into two segments:**$y** for regular users and **$x-y** for new users. A new user is defined as someone with less than **$10** in their wallet **&&** who has not made any withdrawals.
 
-![image](/workspaces/Inspecting-On-Chain-Functions-Involving-Calls/StackUp-July-Coding-Challenge/Screenshot 2024-07-22 130448.png)
+![image](Screenshot 2024-07-22 130448.png)
 
-- **Benefits:** Ensures new users receive required rewards for the first withdrawl faster, which builds trust and encourages them to stay on the platform.
+- **Benefits:** Ensures new users receive required rewards for the first withdrawal faster, which builds trust and encourages them to stay on the platform.
 
 ### Incentivized Onboarding:
 
-- **Description:** Offer additional small rewards or bonuses for new users upon completing initial tasks like joining our discord server and completing the onboarding process or challenges on the platform like how to join and submit a quest(I know we had these implementations earlier but i feel it should stay for a more longer period)
+- **Description:** Offer additional small rewards or bonuses for new users upon completing initial tasks like joining our discord server and completing the onboarding process or challenges on the platform like how to join and submit a quest(I know we had these implementations earlier but I feel it should stay for a longer period)
 
 - **Benefits:** Engages new users early and gives them a taste of the platform’s benefits, increasing the likelihood of retention.
 
-Now we are having the random reward allocation method, so this idea is inspired from that, i feel this method can be a better for new stackies for staying/ believing in our platform.
+Now we have the random reward allocation method, so this idea is inspired by that, this method can be better for new stackies for staying/ believing in our platform.
 
 # Early Challenges
 
 1. **Challenge:**  Our [legends](https://www.scamadviser.com/account/profile/1183659) may create multiple accounts, in the greed of earning.
-**Mitigation:** We alredy have the model to detect the user doing suspecious activity.
+**Mitigation:** We already have the model to detect the user doing suspicious activity.
 2. **Challenge:** Implementing the new reward system might require significant changes to the platform's backend.
 **Mitigation:** Admin Adjustment
