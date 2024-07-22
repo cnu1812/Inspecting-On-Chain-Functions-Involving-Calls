@@ -33,3 +33,6 @@ Now we have the random reward allocation method, so this idea is inspired by tha
 2. **Challenge:** Implementing the new reward system might require significant changes to the platform's backend.
 
 **Mitigation:** Admin Adjustment
+
+<p style="text-align: center;">More-Users-More-Fun-Most-Challenging</p>
+
